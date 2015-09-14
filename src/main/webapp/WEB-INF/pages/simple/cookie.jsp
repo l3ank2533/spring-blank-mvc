@@ -1,0 +1,1 @@
+Page hit counter: <b> ${cookie.counter.value} </b>
